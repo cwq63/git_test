@@ -1,2 +1,2 @@
 # git_test
-联系Git
+练习Git
